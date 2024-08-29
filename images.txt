@@ -1,1 +1,1 @@
-registry.k8s.io/kube-scheduler:v1.30.0
+storage-provisioner:v5
