@@ -1,1 +1,1 @@
-storage-provisioner
+gcr.lank8s.cn/k8s-minikube/storage-provisioner:v5
