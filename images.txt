@@ -1,1 +1,1 @@
-k8s.grc.io/k8s-minikube/storage-provisioner:v5
+k8s.grc.io/k8s-minikube/kicbase:v0.0.44
