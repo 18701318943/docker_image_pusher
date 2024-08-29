@@ -1,4 +1,3 @@
-k8s
 registry.k8s.io/etcd:3.5.12-0
 registry.k8s.io/pause:3.9
 gcr.io/k8s-minikube/storage-provisioner:v5
